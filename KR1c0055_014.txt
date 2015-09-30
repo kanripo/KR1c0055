@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩識名解
-#+DATE: 2015-09-23 09:37:08
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:06:41.765863
+#+PROPERTY: ID KR1c0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1c0055_WYG_014-1a>¶
 欽定四庫全書¶
 　詩識名解卷十四¶
@@ -596,4 +598,3 @@
 　¶
 　¶
 　詩識名解卷十四¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩識名解
-#+DATE: 2015-09-23 09:37:08
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:06:41.748855
+#+PROPERTY: ID KR1c0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1c0055_WYG_013-1a>¶
 欽定四庫全書¶
 　詩識名解卷十三¶
@@ -524,4 +526,3 @@
 椐檿柘四木推之則亦各為一木名所不敢强斷也¶
 　¶
 　詩識名解卷十三¶
-
